@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\EjerciciosMTWDM2020\\GetStartedXamarinAndroid\\GetStartedXamarinAndroid\\GetStartedXamarinAndroid.csproj": {}
+  },
+  "projects": {
+    "G:\\EjerciciosMTWDM2020\\GetStartedXamarinAndroid\\GetStartedXamarinAndroid\\GetStartedXamarinAndroid.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\EjerciciosMTWDM2020\\GetStartedXamarinAndroid\\GetStartedXamarinAndroid\\GetStartedXamarinAndroid.csproj",
+        "projectName": "GetStartedXamarinAndroid",
+        "projectPath": "G:\\EjerciciosMTWDM2020\\GetStartedXamarinAndroid\\GetStartedXamarinAndroid\\GetStartedXamarinAndroid.csproj",
+        "packagesPath": "C:\\Users\\ProBook 450 HP\\.nuget\\packages\\",
+        "outputPath": "G:\\EjerciciosMTWDM2020\\GetStartedXamarinAndroid\\GetStartedXamarinAndroid\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ProBook 450 HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid81"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "G:\\Mis paquetes Nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid81": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid81": {
+          "dependencies": {
+            "Xamarin.Android.Support.Design": {
+              "target": "Package",
+              "version": "[27.0.2.1, )"
+            },
+            "Xamarin.Azure.NotificationHubs.Android": {
+              "target": "Package",
+              "version": "[0.5.0, )"
+            },
+            "Xamarin.Firebase.Messaging": {
+              "target": "Package",
+              "version": "[60.1142.1, )"
+            },
+            "Xamarin.GooglePlayServices.Base": {
+              "target": "Package",
+              "version": "[60.1142.1, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
